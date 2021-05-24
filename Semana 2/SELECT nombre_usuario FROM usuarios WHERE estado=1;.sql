@@ -1,0 +1,1 @@
+SELECT nombre_usuario FROM usuarios WHERE estado=1;

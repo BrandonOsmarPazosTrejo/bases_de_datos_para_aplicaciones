@@ -1,0 +1,1 @@
+ SELECT rol,nombre_usuario FROM usuarios WHERE estado=0;
